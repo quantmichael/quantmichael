@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm ByeongGwang Nam 👋
 
-<!--
-**quantmichael/quantmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quant Developer | Python Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+
+- 📈 Algorithmic Trading
+- 🐍 Python Development
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis
+
+## Current Projects
+
+- Grid Trading System
+- Quant Dashboard
+- AI Projects
+
+## Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Thanks for visiting my profile!
