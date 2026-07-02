@@ -1,27 +1,18 @@
-# Hi, I'm ByeongGwang Nam 👋
+# Hi, I'm Byungkwang Nam
 
-### Quant Developer | Python Developer | AI Enthusiast
+### Quant Developer | Software Engineer | Exploring AI
 
-Welcome to my GitHub profile.
+I have a background in software engineering and quantitative trading.
 
-I'm interested in:
-
-- 📈 Algorithmic Trading
-- 🐍 Python Development
-- 🤖 Artificial Intelligence
-- 📊 Data Analysis
+I'm currently exploring artificial intelligence and building practical AI applications that solve real-world problems.
 
 ## Current Projects
 
 - Grid Trading System
+- Financial News Sentiment Analysis
+- Medical AI Projects
 - Quant Dashboard
-- AI Projects
 
-## Currently Learning
+## Vision
 
-- HTML
-- CSS
-- JavaScript
-- React
-
-Thanks for visiting my profile!
+To combine AI, finance, and software engineering to build useful products for everyday life.
