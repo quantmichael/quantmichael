@@ -1,10 +1,16 @@
-# Hi, I'm Byungkwang Nam
+# Hi, I'm ByeongGwang Nam
 
-### Quant Developer | Software Engineer | Exploring AI
+### Quant Developer | Software Engineer | AI Explorer
 
-I have a background in software engineering and quantitative trading.
+I enjoy building practical software powered by AI, finance, and automation.
 
-I'm currently exploring artificial intelligence and building practical AI applications that solve real-world problems.
+My goal is to create useful products that solve real-world problems.
+
+## Current Activity
+
+- AI Native Program at Codyssey
+- Building AI-powered applications
+- Exploring practical AI technologies
 
 ## Current Projects
 
@@ -15,4 +21,4 @@ I'm currently exploring artificial intelligence and building practical AI applic
 
 ## Vision
 
-To combine AI, finance, and software engineering to build useful products for everyday life.
+Building practical products that combine AI, finance, and automation.
