@@ -1,16 +1,16 @@
 # Hi, I'm ByeongGwang Nam
 
-### Quant Developer | Software Engineer | AI Explorer
+### Python Automation Developer | API Integration | AI & Data Systems
 
-I enjoy building practical software powered by AI, finance, and automation.
+I build practical Python automation systems, API integrations, and data-driven applications that solve real-world problems.
 
 My goal is to create useful products that solve real-world problems.
 
-## Current Activity
+## Current Focus
 
-- AI Native Program at Codyssey
-- Building AI-powered applications
-- Exploring practical AI technologies
+- Building Python automation systems
+- API integration and data processing
+- AI-powered workflow automation
 
 ## Current Projects
 
