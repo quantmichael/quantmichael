@@ -4,8 +4,6 @@
 
 I build practical Python automation systems, API integrations, and data-driven applications that solve real-world problems.
 
-My goal is to create useful products that solve real-world problems.
-
 ## Current Focus
 
 - Building Python automation systems
