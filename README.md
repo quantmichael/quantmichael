@@ -2,21 +2,33 @@
 
 ### Python Automation Developer | API Integration | AI & Data Systems
 
-I build practical Python automation systems, API integrations, and data-driven applications that solve real-world problems.
+I build practical automation systems that connect AI, APIs, data, and real-world workflows.
 
-## Current Focus
+## What I Build
 
-- Building Python automation systems
-- API integration and data processing
-- AI-powered workflow automation
+- Python automation and workflow systems
+- API integrations and data pipelines
+- AI-powered applications
+- Data-driven analysis and monitoring tools
 
-## Current Projects
+## Featured Projects
 
-- Grid Trading System
-- Financial News Sentiment Analysis
-- Medical AI Projects
-- Quant Dashboard
+- **Grid Trading System**  
+  Automated trading system with real-time monitoring and exchange API integration.
+
+- **AI PATH KOREA**  
+  AI opportunity discovery platform for collecting, organizing, and recommending AI events, education programs, and conferences.
+
+- **KRX Sentiment Engine**  
+  AI-powered sentiment analytics for Korean stocks using financial news and community data.
+
+- **AI Short Video Automation**  
+  AI-assisted automation system for short-form video production and publishing workflows.
+
+## Focus
+
+Python · Automation · API Integration · AI · Data Processing
 
 ## Vision
 
-Building practical products that combine AI, finance, and automation.
+Building practical software that turns repetitive workflows into automated systems.
